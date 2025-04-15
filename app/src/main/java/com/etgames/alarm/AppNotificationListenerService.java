@@ -105,7 +105,7 @@ public class AppNotificationListenerService extends android.service.notification
                     if (message != null && message.contains("//alarmnow")) {
 
 
-                        NotificationCompat.Builder builder = new NotificationCompat.Builder(this, CHANNEL_ID)
+                         NotificationCompat.Builder builder = new NotificationCompat.Builder(this, CHANNEL_ID)
                                 .setSmallIcon(R.drawable.ic_launcher_background)
                                 .setContentTitle("My Notification")
                                 .setContentText("This is a notification from your app, the command received.")
