@@ -93,7 +93,7 @@ public class AppNotificationListenerService extends android.service.notification
         intent.setAction("com.etgames.trigerAlarm");
         PendingIntent pendingIntent = PendingIntent.getBroadcast(this, 0, intent, PendingIntent.FLAG_IMMUTABLE);
 
-            if (Objects.equals(sbn.getPackageName(), "com.whatsapp")) {
+             if (Objects.equals(sbn.getPackageName(), "com.whatsapp")) {
                 // Notification from WhatsApp received
 
                 // Extract message content (adjust key as needed)
