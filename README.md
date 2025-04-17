@@ -1,4 +1,4 @@
-an android alarm app but unique a bit, i made it for personal use, but i uploaded it for an internship so sorry for the code not being organised, i didnt mean to publish it before 
+an android alarm app but unique a bit, i made it for personal use, but i uploaded it for an internship amd the reason why the code is not organised, i didnt intend to let others use or see it since it was just me using it.
 the app is basically something that allows the user to trigger an alarm when the phones recives a certain notification 
 the user can choose a specific keyword in the message that triggers the alarm 
 or from a specific person 
